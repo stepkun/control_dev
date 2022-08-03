@@ -4,7 +4,7 @@
 # Example:
 ############
 repositories:
-  examples:
+  control:
     type: git
-    url: https://github.com/ros2/examples.git
+    url: git@github.com:TheNodeBots/control.git
     version: humble
